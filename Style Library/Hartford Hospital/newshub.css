@@ -1,0 +1,53 @@
+﻿@media screen and (min-width: 990px) {
+    .row.newsfeed .article .image {
+        display: block;
+        width: 100%;
+        min-height: 4em;
+    }
+
+    .row.newsfeed .article .excerpt {
+        padding: 0;
+    }
+}
+
+div#content newsfeed ul {
+    padding: 0 0 0 0px;
+}
+
+.row.newsfeed .row-content {
+    background-color: #fff;
+}
+
+.skin ul.categories {
+    padding-left: 0px !important;
+}
+
+.skin ul.categories li a {
+    color: #a40084 !important;
+    font-weight: bold !important;
+}
+
+.pubdate {
+    font-size: 12px;
+    margin:0 !important;
+}
+
+.row.newsfeed .article .image a {
+    display: block;
+    min-height: 224px;
+    background: #eee;
+    background-size: cover !important;
+}
+
+.row.newsfeed .article .image a img {
+    margin: auto 0 !important;
+    padding: 0;
+}
+
+div.hhcnewsroom-article p a {
+    font-weight: 600;
+}
+
+.hhcnewsroom-article {
+    white-space: pre-line;
+}

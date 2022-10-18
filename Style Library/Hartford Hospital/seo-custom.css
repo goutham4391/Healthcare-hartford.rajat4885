@@ -1,0 +1,28 @@
+#homepage #other-events span.heading-1 {
+    color: #53565a;
+    display: inline-block;
+    font-family: 'PMNCaeciliaW01-75Bold', Georgia, Serif !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 1.25;
+    margin: 20px !important;
+}
+
+div#template h2.heading-1,
+div#template span.heading-1 {
+    color: #53565a;
+    font-family: 'PMNCaeciliaW01-75Bold', Georgia, Serif !important;
+    font-size: 2.14285em !important;
+    font-weight: normal;
+    line-height: 1.25 !important;
+    margin: 20px 0;
+}
+
+/* Physician Directory Listing - Mobile Usability */
+div#template.t29 div.listing ul>li {
+    line-height: 2
+}
+
+div#template.t29 div.listing ul>li a {
+    padding: 8px 0;
+}
